@@ -1,0 +1,31 @@
+{
+  "name": "ajs4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "check": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanEvd/ajs4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanEvd/ajs4/issues"
+  },
+  "homepage": "https://github.com/RomanEvd/ajs4#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "babel-jest": "^29.2.2",
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "core-js": "^3.26.0"
+  }
+}
